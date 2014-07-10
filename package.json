@@ -1,0 +1,17 @@
+{
+  "name": "techhuddle",
+  "version": "0.0.0",
+  "description": "techhuddle interview task",
+  "keywords": [
+    "techhuddle",
+    "task"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/asenprodanov/techhuddle.git"  },
+  "author": "asen prodanov",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}

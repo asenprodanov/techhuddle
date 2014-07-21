@@ -430,7 +430,8 @@ th {
 body{
     margin:0;
     font:100% Arial,Helvetica,sans-serif;
-    background:url(../images/teckhuddle-body-bg.png) repeat;
+    /*background:url(../images/teckhuddle-body-bg.png) repeat;*/
+    background: #000;
 }
 h1,h2,h3{
     margin:0;
